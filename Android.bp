@@ -3,7 +3,6 @@ android_app_import {
     owner: "ViperFX",
     apk: "system/priv-app/ViPER4AndroidFX/ViPER4AndroidFX.apk",
     privileged: true,
-    preprocessed: true,
     presigned: true,
     dex_preopt: {
         enabled: false,
